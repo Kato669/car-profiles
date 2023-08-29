@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
       Car(colour: 'Green', engine: 'YU234', numbr: 'UBW 123'),
       Car(numbr: 'UED 901', engine: 'NU234',  colour: 'blue'),
       Car(engine: 'BYE321', colour: 'Grey', numbr: 'UBF 432'),
+      Car(engine: 'BYE321', colour: 'Grey', numbr: 'UBF 433'),
      ];
     return MaterialApp(
       home: SafeArea(
